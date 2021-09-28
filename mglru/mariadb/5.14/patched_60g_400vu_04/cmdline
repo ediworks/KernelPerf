@@ -1,0 +1,1 @@
+BOOT_IMAGE=(hd3,msdos2)/vmlinuz-5.14.0-mglru root=/dev/nvme3n1p5 ro crashkernel=auto resume=UUID=4f69a342-fe65-493a-ac24-ed34fb8910b0 rhgb quiet systemd.unified_cgroup_hierarchy=1
