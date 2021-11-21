@@ -1,0 +1,5 @@
+Filename				Type		Size		Used		Priority
+/dev/zram0                              partition	10485756	2003920		1
+/dev/zram1                              partition	10485756	2003836		1
+/dev/zram2                              partition	10485756	2000476		1
+/dev/zram3                              partition	10485756	2003508		1
