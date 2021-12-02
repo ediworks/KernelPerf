@@ -1,0 +1,1 @@
+BOOT_IMAGE=/vmlinuz-5.15.0-mglru root=UUID=35b932f7-c60a-4a97-97b8-19bd05f51707 ro
